@@ -30,7 +30,7 @@ This Python script extracts frames from a video file and stitches them into a pa
 ## Input and Output
 | Input Video (`video.mp4`) | Output Panorama (`panorama_result.jpg`) |
 |---------------------------|-------------------------------------------|
-| ![Input Video](https://github.com/user-attachments/assets/244ab1ca-a405-4743-907c-2b4b40218364) | ![Output Panorama](./panorama_result.jpg) |
+| [![Input Video](./img/input-video-thumbnail.png)](https://github.com/user-attachments/assets/244ab1ca-a405-4743-907c-2b4b40218364) | ![Output Panorama](./panorama_result.jpg) |
 
 
 
