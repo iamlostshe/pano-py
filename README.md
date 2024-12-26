@@ -1,4 +1,4 @@
-# Video Panorama Creator
+# Pano Py: Video Panorama Creator
 
 This Python script extracts frames from a video file and stitches them into a panorama image using OpenCV.
 
