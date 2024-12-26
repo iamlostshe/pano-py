@@ -1,4 +1,4 @@
-# Pano Py: Video Panorama Creator
+# Pano-Py: Video Panorama Creator
 
 This Python script extracts frames from a video file and stitches them into a panorama image using OpenCV.
 
@@ -26,6 +26,13 @@ This Python script extracts frames from a video file and stitches them into a pa
     python main.py
     ```
 4. The panorama image will be saved as `panorama_result.jpg` in the current directory.
+
+## Input and Output
+| Input Video (`video.mp4`) | Output Panorama (`panorama_result.jpg`) |
+|---------------------------|-------------------------------------------|
+| ![Input Video](https://github.com/user-attachments/assets/244ab1ca-a405-4743-907c-2b4b40218364) | ![Output Panorama](./panorama_result.jpg) |
+
+
 
 ## Functions
 ### `load_frames(video_path, num_frames=20)`
