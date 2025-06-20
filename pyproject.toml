@@ -8,3 +8,6 @@ dependencies = [
     "numpy>=2.3.0",
     "opencv-python>=4.11.0.86",
 ]
+
+[tool.ruff.lint]
+select = ["ALL"]
